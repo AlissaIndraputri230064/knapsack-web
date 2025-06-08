@@ -184,14 +184,14 @@ function MiniForm({ index, item, onChange }) {
       
       <input
         type="number"
-        placeholder=""
+        placeholder="WEIGHT"
         value={item.weight === 0 ? '' : item.weight}
         onChange={(e) => onChange(index, 'weight', Number(e.target.value))}
         className="border p-2 rounded w-24"
       />
       <input
         type="number"
-        placeholder=""
+        placeholder="VALUE"
         value={item.value === 0 ? '' : item.value}
         onChange={(e) => onChange(index, 'value', Number(e.target.value))}
         className="border p-2 rounded w-24"
