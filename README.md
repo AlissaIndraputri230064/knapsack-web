@@ -1,6 +1,5 @@
 # Minion's Knapsack 🍌
 
-Deskripsi:
 Program ini menyelesaikan permasalahan Knapsack dengan tema Minion. Pengguna diminta membantu Minion (seperti Bob dan Kevin) memilih barang terbaik untuk dibawa dalam tas terbatas kapasitas, menggunakan algoritma pemrograman dinamis.
 
 Fitur:
